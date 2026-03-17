@@ -17,13 +17,6 @@ The dashboard explores delay patterns, root causes, airline performance, and air
 
 ---
 
-## ▶️ How to Use This Dashboard
-1. Download the `.pbix` file from the repository  
-2. Open it using **Power BI Desktop**  
-3. Use slicers and filters to explore airline performance, delay causes, and airport trends interactively  
-
----
-
 ## 📄 Page 1: Overview
 This page provides a high-level summary of airline performance and delay statistics.
 
@@ -100,11 +93,6 @@ This project demonstrates practical application of **data analytics and Power BI
 - Certain airlines consistently show higher delay patterns  
 - Seasonal trends indicate peak delay periods during specific months  
 - Some airports show significantly higher delays due to congestion and traffic  
-
----
-
-## 📌 Note
-Due to size constraints, the dataset is not included in this repository.
 
 ---
 

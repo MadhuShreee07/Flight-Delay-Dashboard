@@ -4,9 +4,6 @@
 This project presents an interactive **Power BI dashboard** built to analyze airline flight delays across the United States.  
 The dashboard explores delay patterns, root causes, airline performance, and airport-level insights to understand operational inefficiencies and improve decision-making.
 
-📂 **Dashboard File:**  
-[Airline_Delay_Dashboard.pbix](Airline_Delay_Dashboard.pbix)
-
 ---
 
 ## 🎯 Project Objectives
